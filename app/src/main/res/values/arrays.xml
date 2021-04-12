@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_course_images">
+        <item>coding_1</item>
+        <item>coding_2</item>
+        <item>coding_3</item>
+        <item>coding_4</item>
+        <item>coding_5</item>
+    </string-array>
+</resources>

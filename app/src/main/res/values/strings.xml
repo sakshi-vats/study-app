@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudyTime</string>
+    <string name="faculties">Faculties</string>
+    <string name="topics">Topics</string>
+    <string name="instructions">Instructions</string>
+    <string name="offline_message">Could not fetch courses from the internet. Maybe a connection issue?</string>
+    <string name="add_widget">Add widget</string>
+    <string name="unknown_course">Unknown</string>
+    <string name="no_course_selected">You did not view any course which to display the faculties for. Try opening the app.</string>
+    <string name="topic">Topic</string>
+</resources>
