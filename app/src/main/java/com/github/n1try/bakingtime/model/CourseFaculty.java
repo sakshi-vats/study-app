@@ -24,7 +24,7 @@ import lombok.Setter;
 @Builder
 @EqualsAndHashCode(of = "name")
 public class CourseFaculty implements Parcelable {
-    private double code;
+    private int code;
     private String department;
     @SerializedName("faculty")
     private String name;
@@ -61,7 +61,7 @@ public class CourseFaculty implements Parcelable {
 
     @Override
     public String toString() {
-        return String.format("%s %ss of %s", code, department.toLowerCase(), name);
+        return String.format("%s, %s %s", code, department, name);
     }
 
     public SpannableStringBuilder format() {
