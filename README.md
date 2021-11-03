@@ -21,7 +21,7 @@ Responsive layouts
 <img width="285" alt="Screenshot 2021-11-02 at 1 15 45 AM" src="https://user-images.githubusercontent.com/47550087/139731934-4ba84a67-6769-45ef-9fdf-0b4312bd2e7e.png">
 
 ## How to run
-1. Install Project Lombok plugin in Android Studio (via Preferences --> Plugins)
+1. Install [Project Lombok](https://projectlombok.org/) plugin in Android Studio (via Preferences --> Plugins)
 2. Enable annotation pre-processing in Android Studio.
    i) Open Preferences (from the main screen - see screenshot below)
    ii) Navigate to Other Settings --> Lombok plugin
