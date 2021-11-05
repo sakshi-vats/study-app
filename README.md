@@ -1,5 +1,5 @@
 # Study App
-An android app targeted towards students to access their course work, video lectures, written notes and relevant information.
+An android app targeted towards students to access their course work, video lectures, written notes and relevant information. The content is stored on a third party app.
 
 ## Features
 Integrated video player
